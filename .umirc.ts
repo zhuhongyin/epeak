@@ -24,16 +24,16 @@ export default defineConfig({
     { name: '分时分析', path: '/page1', component: './Page1' },
     { name: '相似日分析', path: '/page2', component: './Page2' },
     //backups
-    {
-      name: '首页',
-      path: '/home',
-      component: './Home',
-    },
-    {
-      name: '权限演示',
-      path: '/access',
-      component: './Access',
-    },
+    // {
+    //   name: '首页',
+    //   path: '/home',
+    //   component: './Home',
+    // },
+    // {
+    //   name: '权限演示',
+    //   path: '/access',
+    //   component: './Access',
+    // },
     {    
       name: ' CRUD 示例',
       path: '/table',
